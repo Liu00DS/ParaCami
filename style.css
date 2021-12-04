@@ -18,17 +18,17 @@ body {
 }
 .in-flex:first-child {
     flex: 2;
-    padding: 25px;
+    padding: 20px;
     margin: 20px;
     margin-bottom: 0px;
 }
 .in-flex div {
-    padding: 25px;
+    padding: 20px;
     margin: 20px;
 }
 .img1 {
     width: 95%;
 }
 .text1 {
-    font-size: 30px;
+    font-size: 25px;
 }
